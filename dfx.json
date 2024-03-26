@@ -1,6 +1,6 @@
 {
     "canisters": {
-        "icp_simple_site": {
+        "parkbnb_landing_page": {
             "frontend": {
                 "entrypoint": "src/index.html"
             },
